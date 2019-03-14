@@ -4,4 +4,5 @@ echo implode(" ",$arr)."<br>";
 echo implode("+",$arr)."<br>";
 echo implode("-",$arr)."<br>"; 
 echo implode("X",$arr);
+
 ?>
